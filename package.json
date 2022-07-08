@@ -1,16 +1,20 @@
 {
-	"name": "holarchy-component-cli",
+	"name": "holarchy-components-cli",
 	"description": "adds a holarchy component",
-	"version": "0.0.1",
+	"version": "1.0.1",
 	"license": "UNLICENSED",
 	"bin": {
-		"holarchy-component-cli": "index.js",
+		"holarchy-components-cli": "index.js",
 		"add": "index.js"
 	},
 	"author": {
 		"name": "Chase Brenchley",
 		"email": "chase.brenchley@modea.com",
 		"url": "https://github.com/VUMC-Interactive-Web/holarchy-components"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/chase-brenchley/holarchy-components-cli"
 	},
 	"keywords": [
 		"holarchy-component-cli",
